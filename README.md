@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=for-data-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="for-data-analyst" /> </p>
 
-- 🌱 I’m currently learning **NumPy,Panda, Laravel and Python**
+- 🌱 I’m currently learning :: **NumPy,Panda, Laravel and Python**
 
-- 📫 How to reach me **ashishsinghchauhan1979@gmail.com**
+- 📫 How to reach me :: **ashishsinghchauhan1979@gmail.com**
 
-- ⚡ Fun fact **I live because I born...**
+- ⚡ Fun fact :: **I live because I born...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
